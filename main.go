@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Changes has been made")
+	fmt.Println("Paari has made changes")
 }
 
 func CalculateTotal(item_count int, item_price float64) float64 {
