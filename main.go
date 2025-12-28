@@ -1,9 +1,6 @@
 package main
 
-import "fmt"
-
 func main() {
-	fmt.Println("some changes")
 }
 
 func CalculateTotal(item_count int, item_price float64) float64 {
